@@ -26,9 +26,7 @@ Permite gestionar estudiantes ingresando sus datos personales y calificaciones, 
 ```
 
 ## APP
-[Screenshot-2025-03-22-223238.png](https://postimg.cc/LYPD6Npx)
-
-[Screenshot-2025-03-22-223742.png](https://postimg.cc/1g2MQbLg)
+[![code.png](https://i.postimg.cc/L8Sh2CNp/code.png)](https://postimg.cc/0bt9CCTW)
 
 ## 🏗️ **Instalación y ejecución**  
 
@@ -69,10 +67,17 @@ python main.py
 
 ## 📸 **Capturas de Pantalla**  
 🔹 **Pantalla Principal:**  
-![Pantalla Principal](ruta_a_la_imagen.png)  
+[![principal.png](https://i.postimg.cc/YqYhcKNR/principal.png)](https://postimg.cc/569xvrRQ)
 
 🔹 **Validaciones en acción:**  
-![Validación](ruta_a_la_imagen_validacion.png)  
+# Satisfactorio
+[![exito.png](https://i.postimg.cc/mZcPwFt0/exito.png)](https://postimg.cc/hhB44v8r)
+# Error
+[![error.png](https://i.postimg.cc/mZ0t629h/error.png)](https://postimg.cc/8smp7GtV)
+
+🔹 **Visualizacion de datos en el programa:**  
+[![data.png](https://i.postimg.cc/23RRdtV8/data.png)](https://postimg.cc/jnXFtZHG)
+
 
 ## 🤝 **Contribuciones**  
 ¡Las contribuciones son bienvenidas! Si encuentras un error o quieres mejorar algo, puedes hacer un **Pull Request** o abrir un **Issue** en GitHub.  
